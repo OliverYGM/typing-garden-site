@@ -1,0 +1,50 @@
+{
+  "verified_on": "2026-10-08",
+  "author": "Dvortygirl",
+  "author_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+  "processing": "Decode original Ogg Vorbis to mono 24000 Hz PCM16; remove DC, apply gentle one-pole low-pass at 7000 Hz, normalize to -22 dBFS RMS with a -6 dBFS peak ceiling, add 12 ms edge fades and 60 ms silence padding. No pitch, word or voice substitution.",
+  "clips": {
+    "good": {
+      "file": "good.wav",
+      "source_title": "En-us-good.ogg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:En-us-good.ogg",
+      "source_revision_url": "https://commons.wikimedia.org/w/index.php?title=File:En-us-good.ogg&oldid=963828927",
+      "original_sha1": "31014c3238ea2be5925cd11c40f1df35eb50717d",
+      "license": "Public domain with unconditional fallback grant",
+      "license_url": "https://commons.wikimedia.org/wiki/File:En-us-good.ogg",
+      "sha256": "515c1bf20f4140831d6d28ceac193f32cb3e11b96e468ec10837ef2aa95fe134"
+    },
+    "great": {
+      "file": "great.wav",
+      "source_title": "En-us-great.ogg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:En-us-great.ogg",
+      "source_revision_url": "https://commons.wikimedia.org/w/index.php?title=File:En-us-great.ogg&oldid=1229135663",
+      "original_sha1": "0c20c8724a17596f01de96044748aec0e39f4365",
+      "license": "Public domain with unconditional fallback grant",
+      "license_url": "https://commons.wikimedia.org/wiki/File:En-us-great.ogg",
+      "sha256": "ba9fab8a15d0c52b079bd9e27a5d154e6744d73428aaae2184fcfb736bf3e63c"
+    },
+    "excellent": {
+      "file": "excellent.wav",
+      "source_title": "En-us-excellent.ogg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:En-us-excellent.ogg",
+      "source_revision_url": "https://commons.wikimedia.org/w/index.php?title=File:En-us-excellent.ogg&oldid=1229130933",
+      "original_sha1": "5cc109bc4a22fdcefbc1e4357b766d613b5dad66",
+      "license": "CC-BY-SA-3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sha256": "c9e851a305d4dd5746723798b1b57be74b4a494936c685fa8a7cd33d437423c0"
+    }
+  },
+  "retired_audio_sha256": {
+    "表扬语音试听.wav": "55392142b4efff1d51d5046d16331b7ab1c46c7f2182f4dcb834bbdd0ab934a0",
+    "good.wav": "4c5be13be48989815b61b01df752b8eccb4f1e7ee29a101d0ce8481b6d2a473a",
+    "excellent.wav": "ddd0a0257bc9a7df4519cd97db67337b78e89a151717340aebf4a3f077427655",
+    "great.wav": "259a4b1d27be03eae80807f37b17a3f36520f6d41c2c253901a1b3e4a124d4b6"
+  },
+  "preview": {
+    "file": "表扬语音试听.wav",
+    "license": "CC-BY-SA-3.0",
+    "note": "Concatenated preview using the three credited clips with 450 ms gaps; retained Excellent attribution and share-alike terms.",
+    "sha256": "52810fed216e8943c074c9246c7ee308a086cfda38cb42dde51e64f70902b746"
+  }
+}
